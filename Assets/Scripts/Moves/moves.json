@@ -1,0 +1,11 @@
+[
+    {
+
+        "id": "sl",
+        "name": "slap",
+        "desc": "a weak hit to repel enemies",
+        "type": "offensive",
+        "damage": 5
+
+    }
+]

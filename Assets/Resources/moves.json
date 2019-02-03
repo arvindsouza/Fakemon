@@ -1,0 +1,19 @@
+[
+    {
+        "id": "sl",
+        "name": "Slap",
+        "desc": "a weak hit to repel enemies",
+        "type": "offensive",
+        "damage": 5
+    },
+    {
+        "id": "foetal",
+        "name": "Foetal Curl",
+        "desc": "curl up into the foetal position and hope to survive",
+        "type": "defensive",
+        "defense": 8
+    },
+    {
+
+    }
+]
